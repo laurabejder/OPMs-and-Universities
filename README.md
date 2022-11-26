@@ -2,6 +2,8 @@
 ## Contents of the repository
 
 
+The FOIA 
+
 ## Data Diary
 
 This document explains the process of data collection and data cleaning of this project.
@@ -29,4 +31,6 @@ We have updated the invisibility meassurement.
 
 
 ### Cleaning the data
-We decided to narrow the sample to contracts that are still active or expired later than 2019. We did so to ensure that 
+We decided to narrow the sample to contracts that are still active or expired later than 2019. We did so to ensure that the project only include recent partnerships – and exclude contracts that expired years or decades ago. By doing so we drop 104 partnerships. 
+
+We also exclude partnerships where the online program manager only provides an online learning platform - known as Learning Program Managers (LMS) to make the cases in the sample more comparable. The LMS are coded as -999 in the invisibility column. 
