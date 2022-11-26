@@ -17,7 +17,6 @@ We filed a new round of FOIA requests to the universities in the original data a
 ### Updating the data
 We have updated the invisibility meassurement. 
 
-
     0 - no mention of the partnership on University program website, may have 1 press release 
         from the provost, head of university, etc when the partnership began, but definitely 
         not clear to potential students. You would need to specifically look up key terms 
@@ -30,3 +29,4 @@ We have updated the invisibility meassurement.
 
 
 ### Cleaning the data
+We decided to narrow the sample to contracts that are still active or expired later than 2019. We did so to ensure that 
