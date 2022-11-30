@@ -11,7 +11,7 @@
 |`partnership_id`|Unique numeric id for each partnership.|
 |`institution`   |Name of the university or college.|
 |`provider`      |Name of the OMP company.|
-|`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website.|
+|`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website. -999 means that the OPM provides an online learning platform.|
 |`start_month`   |The start month of the first contract.|
 |`start_year`    |The start year of the first contract.|
 |`term_primary_contract`|The lenght of the first contract. 888 mean that the contract remains effective or is automatically renewed until terminated by one of the parties.|
