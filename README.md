@@ -26,9 +26,7 @@ link to CSV!
 This document explains the process of data collection and data cleaning of this project.
 
 ### Data aquisition
-The original dataset was aquired from this GitHub repository: 
-
-https://github.com/HigherEdData/Outsourcing-Online-Education 
+The original data was collected by Heather Daniels, Christian Smith, Laura T. Hamilton, and Charlie Eaton from the University of California, Merced. It can be aquired from [this GitHub repository](https://github.com/HigherEdData/Outsourcing-Online-Education). 
 
 The file [filename] is based on their dataset but we have collected new rounds of data which are also included in the file. 
 
