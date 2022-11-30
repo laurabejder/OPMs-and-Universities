@@ -26,8 +26,8 @@
 |`partnership_id`|Speficic numeric id for each partnership|
 |`institution`   |Name of the university or college|
 |`provider`      |Name of the OMP company |
-|`2019_contract`  |Yes/No to whether the database includes a contract aquired by the Century Foundation |
-|`2022_contract`   |Yes/No to whether the database includes a contract aquired by Columbia|
+|`2019_contract`  |Yes/No to whether the database includes a contract aquired by the Century Foundation. If yes, it can be found in the `FOIA-2019` directory|
+|`2022_contract`   |Yes/No to whether the database includes a contract aquired by Columbia. If yes, it can be found in the `FOIA-2022` directory|
 |`2019_contract_content`|Summary of the content of the 2019 contract|
 |`2022_contract_content`|Summary of the content of the 2022 contract|
 |`keywords`| |
