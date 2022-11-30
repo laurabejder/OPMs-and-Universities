@@ -12,12 +12,11 @@
 |`institution`   |Name of the university or college.|
 |`provider`      |Name of the OMP company.|
 |`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website.|
-|`start_month`   | |
-|`start_year`    | |
-|`term_primary_contract`| |
-|`first_start_date`| |
-|`last_start_date`| |
-|`end_date_last_contract`| |
+|`start_month`   |The start month of the first contract|
+|`start_year`    |The start year of the first contract|
+|`term_primary_contract`|The lenght of the first contract. 888 means indefinite.|
+|`last_start_year`|The start year for the lastest contract|
+|`end_date_last_contract`|The expiration year for the latest contract|
 
 `csv_name.csv`
 
