@@ -4,6 +4,12 @@
 - **FOIA-2019:** Contracts between schools and OPMs collected by the Century Foundation before 2022. 
 - **FOIA-2022:** Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
 
+
+
+| Header         | Definition |
+|----------------|------------|
+|`partnership_id`|Speficic numeric id for each partnership|
+
 ## Methodology
 
 This document explains the process of data collection and data cleaning of this project.
@@ -15,7 +21,7 @@ https://github.com/HigherEdData/Outsourcing-Online-Education
 
 The file [filename] is based on their dataset but we have collected new rounds of data which are also included in the file. 
 
-We filed a new round of FOIA requests to the universities in the original data and as a result of the responses, we have added new partnerships between universities and online program managers. 
+A new round of FOIA  requests was filed to the universities in the original data and as a result of the responses, new partnerships between universities and online program managers were added to the data. 
 
 ### Updating the data
 
