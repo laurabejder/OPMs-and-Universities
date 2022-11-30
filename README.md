@@ -26,10 +26,10 @@
 |`partnership_id`|Speficic numeric id for each partnership|
 |`institution`   |Name of the university or college|
 |`provider`      |Name of the OMP company |
-|`2019_contract`  | |
-|`2022_contract`   | |
-|`2019_contract_content`    | |
-|`2022_contract_content`| |
+|`2019_contract`  |Yes/No to whether the database includes a contract aquired by the Century Foundation |
+|`2022_contract`   |Yes/No to whether the database includes a contract aquired by Columbia|
+|`2019_contract_content`|Summary of the content of the 2019 contract|
+|`2022_contract_content`|Summary of the content of the 2022 contract|
 |`keywords`| |
 |`price_per_year`| |
 |`revenue_share`| |
