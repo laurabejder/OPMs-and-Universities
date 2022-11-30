@@ -11,7 +11,7 @@
 |`partnership_id`|Speficic numeric id for each partnership.|
 |`institution`   |Name of the university or college.|
 |`provider`      |Name of the OMP company.|
-|`invisibility`  |0-2 score of the invisibility of the partnership on the university/college's website.|
+|`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website.|
 |`start_month`   | |
 |`start_year`    | |
 |`term_primary_contract`| |
