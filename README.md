@@ -18,6 +18,11 @@ The file [filename] is based on their dataset but we have collected new rounds o
 We filed a new round of FOIA requests to the universities in the original data and as a result of the responses, we have added new partnerships between universities and online program managers. 
 
 ### Updating the data
+
+updating the data as we receive new responses to our FOIA requests – contracts that are extentet or renewed. 
+- new expiration dates, new contract content, new contracts added.
+
+#### Updated invisibility meassurement
 We have updated the invisibility meassurement. 
 
 WHERE DID WE FIND THE INFORMATION AND HOW DID WE FIND IT?
@@ -33,7 +38,6 @@ ADD DATES FOR DATA COLLECTION!
     2 - The partnership is clear on the university program’s website, clear differentiation between
         the university and an external tool
 
-Also updating the data as we receive new responses to our FOIA requests – contracts that are extentet or renewed. 
 
 ### Cleaning the data
 The sample includes to contracts that are still active or expired later than 2019. Contracts that expired before that are excluded to ensure that the project only include recent partnerships. By doing so, we drop 104 partnerships. 
