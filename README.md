@@ -1,8 +1,8 @@
 
 ## Contents of the repository
 
-
-The FOIA folders.
+- FOIA 2019: Contracts between schools and OPMs collected by the Century Foundation before 2022. 
+- FOIA 2022: Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
 
 ## Data Diary
 
@@ -19,6 +19,9 @@ We filed a new round of FOIA requests to the universities in the original data a
 
 ### Updating the data
 We have updated the invisibility meassurement. 
+
+WHERE DID WE FIND THE INFORMATION AND HOW DID WE FIND IT?
+ADD DATES FOR DATA COLLECTION! 
 
     0 - There is no mention of the partnership on University program website, may have 1 press 
         release from the provost, head of university, etc when the partnership began, but definitely 
