@@ -14,7 +14,7 @@
 |`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website.|
 |`start_month`   |The start month of the first contract|
 |`start_year`    |The start year of the first contract|
-|`term_primary_contract`|The lenght of the first contract. 888 means indefinite.|
+|`term_primary_contract`|The lenght of the first contract. 888 mean that the contract remains effective or is automatically renewed until terminated by one of the parties.|
 |`last_start_year`|The start year for the lastest contract|
 |`end_date_last_contract`|The expiration year for the latest contract|
 
