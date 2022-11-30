@@ -4,11 +4,22 @@
 - **FOIA-2019:** Contracts between schools and OPMs collected by the Century Foundation before 2022. 
 - **FOIA-2022:** Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
 
-
+link to CSV!
 
 | Header         | Definition |
 |----------------|------------|
 |`partnership_id`|Speficic numeric id for each partnership|
+|`institution`   |Name of the university or college|
+|`provider`      |Name of the OMP company |
+|`invisibility`  | |
+|`start_month`   | |
+|`start_year`    | |
+|`term_primary_contract`| |
+|`first_start_date`| |
+|`last_start_date`| |
+|`end_date_last_contract`| |
+
+link to CSV!
 
 ## Methodology
 
