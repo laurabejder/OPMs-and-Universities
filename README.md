@@ -1,8 +1,8 @@
 
 ## Contents of the repository
 
-- FOIA 2019: Contracts between schools and OPMs collected by the Century Foundation before 2022. 
-- FOIA 2022: Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
+- **FOIA 2019:** Contracts between schools and OPMs collected by the Century Foundation before 2022. 
+- **FOIA 2022:** Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
 
 ## Data Diary
 
