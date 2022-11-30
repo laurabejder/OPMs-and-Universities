@@ -8,7 +8,7 @@
 
 | Header         | Definition |
 |----------------|------------|
-|`partnership_id`|Speficic numeric id for each partnership.|
+|`partnership_id`|Unique numeric id for each partnership.|
 |`institution`   |Name of the university or college.|
 |`provider`      |Name of the OMP company.|
 |`invisibility`  |Numeric score (0-2) of the invisibility of the partnership on the university/college's website.|
@@ -23,7 +23,7 @@
 
 | Header         | Definition |
 |----------------|------------|
-|`partnership_id`|Speficic numeric id for each partnership.|
+|`partnership_id`|Unique numeric id for each partnership.|
 |`institution`   |Name of the university or college.|
 |`provider`      |Name of the OMP company.|
 |`2019_contract`  |Yes/No to whether the database includes a contract aquired by the Century Foundation. If yes, it can be found in the `FOIA-2019` directory.|
