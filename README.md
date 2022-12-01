@@ -41,7 +41,7 @@ This document explains the process of data collection and data cleaning of this 
 ### Data aquisition
 The original data was collected by Heather Daniels, Christian Smith, Laura T. Hamilton, and Charlie Eaton from the University of California, Merced. It can be aquired from [this GitHub repository](https://github.com/HigherEdData/Outsourcing-Online-Education). 
 
-The file [`filename] is based on their dataset but we have collected new rounds of data which are also included in the file. 
+The file [`filename`] is based on their dataset but we have collected new rounds of data which are also included in the file. 
 
 A new round of FOIA  requests was filed to the universities in the original data and as a result of the responses, new partnerships between universities and online program managers were added to the data. 
 
@@ -65,7 +65,6 @@ ADD DATES FOR DATA COLLECTION!
 
     2 - The partnership is clear on the university program’s website, clear differentiation between
         the university and an external tool
-
 
 ### Cleaning the data
 The sample includes to contracts that are still active or expired later than 2019. Contracts that expired before that are excluded to ensure that the project only include recent partnerships. By doing so, we drop 104 partnerships. 
