@@ -49,14 +49,12 @@ A new round of FOIA  requests was filed to the universities in the original data
 
 ### Updating the data
 
-updating the data as we receive new responses to our FOIA requests – contracts that are extentet or renewed. 
-- new expiration dates, new contract content, new contracts added.
+The data has been updated as new contracts were obtained. If the contract has been extentet or renewed, new expiration dates, new contract content, new contracts were added.
 
 #### Updated invisibility meassurement
-We have updated the invisibility meassurement. 
+The invisibility meassurement has been updated. 
 
-WHERE DID WE FIND THE INFORMATION AND HOW DID WE FIND IT?
-ADD DATES FOR DATA COLLECTION! 
+To see whether the partnerships would be visible to a student looking for information on the program, advanced Google searches were run in the Fall of 2022. This was done by scanning each university's web domain for any mention of the OPM's name.
 
     0 - There is no mention of the partnership on University program website, may have 1 press 
         release from the provost, head of university, etc when the partnership began, but definitely 
