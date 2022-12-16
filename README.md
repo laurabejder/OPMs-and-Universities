@@ -31,7 +31,7 @@
 |`2022_contract`   |Yes/No to whether the database includes a contract aquired by Columbia. If yes, it can be found in the `FOIA-2022` directory.|
 |`2019_contract_content`|Summary of the content of the 2019 contract.|
 |`2022_contract_content`|Summary of the content of the 2022 contract.|
-|`keywords`| |
+|`keywords`|Keywords categorizing the content of the contract: course development, course content, course material, course instruction, revenue share, academic support, recruitment, marketing, software, tutoring|
 |`price_per_year`| |
 |`revenue_share`| |
 |`programs_courses`| |
