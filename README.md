@@ -6,7 +6,7 @@
 - `data.csv`: Data on the partnerships including name of the university/college, OPM, invisitibility meassure and start and end dates for the contracts. See variable description below.
 - `contact_content.csv`: Descriptions of the content of each contract. See variable description below. Only invisible partnerships are included.
 
-`data.csv`
+#### Variables in `data.csv`
 
 | Header         | Definition |
 |----------------|------------|
@@ -20,7 +20,7 @@
 |`last_start_year`|The start year for the lastest contract.|
 |`end_date_last_contract`|The expiration year for the latest contract.|
 
-`contact_content.csv`
+#### Variables in `contact_content.csv`
 
 | Header         | Definition |
 |----------------|------------|
