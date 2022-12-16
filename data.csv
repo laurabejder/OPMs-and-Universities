@@ -1,4 +1,3 @@
-Primary database - Primary data (3)
 partnership_id,Institution,Provider,invisibility,start_month,start_year,term_primary_contract,last_start_date,end_date_last_contract
 1,Alabama State University,Kaplan,0,8,2014,888,2014,2021
 2,Arizona State University,Coursera,2,8,2015,5,2015,2020
