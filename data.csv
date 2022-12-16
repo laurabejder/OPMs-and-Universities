@@ -1,52 +1,155 @@
- ,institution,provider,2019_contract,2022_contract,Invisibility,2019_contract_content,2022_contract_content,"keywords (course[development, content, material, instruction], revenue share, academic support, recruitment, marketing, software, tutoring etc.)",price_per_year,revenue_share,programs_courses,Courses
-1,Alabama State University,Kaplan,Yes,No,0,"Kaplan designs and develops Distance Learning Programs and other services for Alabama State University. Kaplan also impact curriculum, content and instructional support. A revenue share agreement is also detailed ",,course content | course development | revenue share ,,,,
-6,Black Hawk College,Edmentum,Yes,No,0,"This contract says that Edmentum will administer the program with support of Black Hawk College staff. It also explains that Edmentum provides licenced courses, qualified teachers while the school must provide a program adiministrator and determine what courses a student will take.",,course instruction | course material | course concent | course development | software,"$20,670 + per course price ($50-$2,500)",,,
-7,Black Hawk College,Gatlin Education Services,No,Yes,0,,"Provides marketing services such as setting up custom brochures, assisting in the set up of the content for the website and supporting direct mail campaigns or/and advertising in local paper to create community awareness.",marketing,,,,
-16,Eastern Michigan University,Academic Partnerships,Yes,No,1,"This contract states that AP provides marketing, recruiting, and promotion of the programs, program development, support and implementation, and academic support services. The university is responsible for the faculty selection and delivery of online programs.",,Marketing | Recruitment | Academic support | Course development | Revenue share,,50%,,
-17,Emporia State University,Instructional Connections,Yes,No,0,"This contract explains that IC's academic coaches assist the university in course instructional support and delivery in Online Educational courses and/or degree programs. IC might help grade assignments, participate in and monitor course discussions or work under faculty resolve issues relative to course delivery. ",,course development | course instruction | academic support,"Per student course payment: undergraduate courses ($34-$42), graduate courses ($42-$50) and doctoral courses ($55-$70)",,,
-18,Emporia State University,Academic Partnerships,Yes,No,0,"Almost identical to contract #16. AP provides marketing, recruiting, and promotion of the programs, program development, support and implementation, and academic support services, but the university is responsible for faculty selection and delivery of online programs. ",,marketing | recruitment | academic support | course development | revenue share,,25%-50%,,
-19,Florida State University,Keypath,Yes,Yes,0,"Most of keypath's objectives, duties and responsibilities are redacted.","It is unclear what Keypath's role is: Many of the OPM's objectives and responsibilities are redacted from the contract. The visible parts of the contract explains that Keypath will conduct an institution and program assessment and assist in the development of effective course delivery models. <br><br>Florida State University is responsible for admissions, the development and delivery of course content, curriculum and the appointment of faculty. ",,,,,
-27,Lamar University,Academic Partnerships,Yes,No,0,"AP is responsible for the marketing and recruiting to the program/courses, support the development of the program. Unclear whether the school or AP provides the courses/programs. list of AP online programs (p. 13)  ",,revenue share | marketing | recruitment | course development,,30%-50%,,
-28,Louisiana State University System,Academic Partnerships,Yes,No,0,"AP provides market analyses, a team that will help the school convert course content into an online format (the school is responsible for the development and maintenance of all courses), marketing and recruitment services, maximize student retention and enhance graduation rates and student registration (p. 9-10)",,revenue share | marketing | recruitment | course development | academic support,,50%,,
-29,Louisiana State University-Shreveport,Academic Partnerships,Yes,No,0,"AP provides market analyses, a team that will help the school convert course content into an online format (the school is responsible for the development and maintenance of all courses), marketing and recruitment services, maximize student retention and enhance graduation rates and student registration (p. 8-9)",,revenue share | marketing | recruitment | course development | academic support,,50%,,
-33,Michigan State University,Virtual Internship Partners Limited,Yes,No,0,"VI provides an unpaid online work placement with a company or non-profit organization, a personal career program experience manager and internship coach, arranges weekly group discussions and business webinars, provides access to online curriculum, and membership of the VI Alumni Network",,,,,,
-40,Montgomery County Community College,Ed2Go,Yes,No,1,"Ed2Go provides online courses and career training programs to the school including course materials, course instructors, course hosting and course evaluation. Ed2Go also provides marketing materials and assistance. ",,course material | course content | course instruction | course development | marketing,,,,
-44,Ohio University,Pearson/ EmbanetCompass,Yes,No,1,"""The company will develop and create the online component of all e-learning program courses including instuctional design, multimedia development, course uploadingm and course/program hosting"" (p.111) but other places it is mentioned that the university is responsible for curriculum, content and faculty and staff (p.129) while the company is responsible for marketing, recruitment and management and student retention matters (p. 132-133 and p. 107-108) --> so the company's tasks are also dependent on the specific program. ",,,,50%-85%,"Master of Athletic Administration, Master of Business Administration, Master of Coaching Education, Master of Engineering Management, Master of Financial Economics, Master of Health Administration, Master of Public Administration, Master of Science in Civil Engineering, Master of Science in Electrical Engineering, Master of Science in Nursing Administrator, Master of Science in Nursing Educator, Master of Science Family Nurse Practitioner, Master of Social Work",
-47,Purdue University,All Campus,Yes,No,0,"All campus provides marketing, student recruitment, retention services and operations management (p. 2). Purdue is responsible for curriculum development, instruction and online course development. ",,marketing | recruitment,,,all courses under the Purdue Lean Six Sigma and Project Management programs. ,
-48,Purdue University,Kaplan,Yes,No,1,"Contract says that Kaplan will accellerate and expand higher education online offerings: basic services include marketing, recruitment, student support, curriculum development",,recruitment | marketing | course developemtn,Redacted,,,
-49,Purdue University,The College Network,Yes,No,0,"""TCN will provide course development, course hosting, marketing, promotional and enrollment services for PURDUE online Lean Six Sigma courses and programs and PURDUE will provide Lean Six Sigma course and program content and instruction.",,revenue share | marketing | course development,,40% - 49% ,,"Lean Six Sigma Green Belt, Lean Sic Sigma Black Belt, Lean Advanced Methods and Tools."
-52,Southeastern Oklahoma State University,Ed2Go,No,Yes,0,,"course materials, online instructors, course hosting and evaluation. ",course material | course instruction,,,,
-53,Southeastern Oklahoma State University,Academic Partnerships,Yes,Yes,0,,"AP assists Southeastern Oklahoma State University in online program development, design and implementation. AP also provides several marketing, recruitment and promotion services including enrollment specialist representatives and application support for potential students. The partnership has 13 courses planned for the fall of 2023.",,,,,
-54,Southern Illinois University Carbondale,Ed2Go,Yes,No,1,"Ed2Go develops, designs, produces and distributes online courses and deliver instruction. The school offer courses produced by Ed2Go to their students, trainees, members and employees.",,course development | course content | cource material | course instruction,,,,
-55,SUNY Binghamton,Academic partnerships,Yes,No,1,"AP helps the SUNY Birminghampton provide online courses, degree programs and other programs. AP is responsible for for marketing, recruitment and promotion of the programs, program development, academic support to university staff in program-level planning, course mapping and course concersion into online electronic format. ",,marketing | recruitment | academic support | course development | revenue share,,50%,see p. 23,
-64,University of California-San Diego,Trilogy,No,No,0,,"Trilogy is responsibile for marketing, generating enrollments, selecting instructors and providing course materials for coding bootcamps at University of California-San Diego. There is a revenue share agreement but the exact share is redacted. ",,,,,
-66,University of California-Berkeley,2U,Yes,Yes,1,,"Master of Information and Data Science, Master of Information and Cybersecurity. U2 provides technological, marketing, promotional, development and support services. Also element of recruiting rejected students.",,,,,
-70,University of Cincinnati,Academic Partnerships,Yes,No,0,"AP is responsible for sales and marketing, recruitment, and support for the University's staff in the development, implementation and transition of curriculum and courses into an online format. ",,marketing | recruiting | program development | academic support | revenue sharing,,40%,"MS in Tax, MS in Finance, MS in Accounting, MBA, Bachelors in Business Administration, MS or MEng in Mechanical Engineering, MS or MEng in Electrical Engineering, MS or MEng in Civil Engineering, MS or MEng in Environmental Engineering",
-71,University of Cincinnati,Pearson/ EmbanetCompass,Yes,No,1,Pearson and University of Cincinnati are mutually responsible for the development and delivery of course content but the control of academic curricular and content is a UC decision. UC is also responsible for the academic instruction. Pearson help the course instructors in developing course content suitable for E-learning and marketing of the programs,,marketing | program development | academic support,,,"MS in Nursing, Degree Program in Nurse-Midwifery, Degree Program in Women's Health, BS in Health Information Management, BS in Clinical Laboratory Science, ME in Education Administration, MS in Criminal Justice",
-73,University of Connecticut,Alivetek,Yes,No,0,This contract explains that Alivetek is responsible for providing the course materials for University of Connecticut's diversity and anti-hazing coursework ,,program development | course material | course instruction,Approximately $14000 with additional fees for high numbers of students,,,
-74,University of Connecticut,EverFi,Yes,No,1,Contract explains that EverFi runs an alcohol safety course for university students,,program development | course material | course instruction,45000 for 3 years,,,
-76,University of Florida,All Campus,Yes,No,0,"All Campus offers marketing, recruitment and retention services to the University of Florida while the University is responsible for curriculum and course content, falculty and staff and the necessary technology for distance courses.",,revenue share | marketing | recruitment,,"38,5%","Master of Science in Family, Youth and Community Sciences, Master in Sports Management, Masters of Additions and Recovery, Master of Music Education",
-77,University of Florida,Apollidon,Yes,No,1,"The company is responsible for marketing, student recruitment, student retention and support the faculty in course development. The company may provide instructional design, technology and multimedia services but the University is responsible for curriculum and course content, appointment of faculty and staff, admission and technology (learning management system)",,marketing | recruitment | academic support | course development,,37%-40%,"Online Graduate Certificate in Aging & Geriatric Practice, Online Graduate Certificate in Medical Physiology - Cardiovascular/Renal Physiology and Pathophysiology, Online Microbiology Masters Degree, Online Master of Science in Pharmacy in Medication Therapy Management, Online Master of Science in Pharmacy in Pharmaceutical Outcomes and Policy, MS in Veterinary Forensic Science, Online Program in Shelter Medicine, BS in Microbiology and Cell Science, MS in Forensic Science, MS in Forensic DNA & Serology, MS in Forensic Toxiology, MS in Forensic Drug Chemistry, PSM in Forensic Science, Certificate in Forensic Death Investigation, Certificate in Forensic DNA & Serology, Certificate in Forensic Toxilogy, Certificate in Forensic Drug Chemistry, Certificate in Verinary Forensic Sciences, MS and PMS in Pharmaceutical Chemistry, MS in Clinical Toxicology, Certificate in Clinical Toxicology","Under the Forensic Science program: Crime Scene Processing, Cruelty to Animals and Interpersonal Violence, Advanced Principles of Forensic Entomology, Scientific and Legal Principles of Evidence, Veterinary Forensic Pathology, Independent Research Practicum."
-82,University of Illinois,Pearson/ EmbanetCompass,Yes,Yes,1,,"Support of online educational programs (Department of Applied Health Sciences). OPM is responsible for market research and assessment, marketing services, recruitment services and student support services, while the school is responsible for course content and curriculum, instruction and admission. Pearson gets access to a universal URL associated with the University's web URL + email domain.",marketing | recruitment | course instruction,,,,
-85,University of Kansas,Everspring,Yes,No,1,"Everspring will provide marketing services, consult and provide support to enable the conversion of existing courses into an online format, and student support. ""Institution shall deliver the Course Content for all course in the program [...] to support Everspring commencing instructional design and productions"" (p. 47, 49, 51) ",,marketing | course content,Redacted,Redacted,"Graduate preparation in High-Incidence Disabilities, Endorsement in High-Incidence Disabilities, Online Master's program in Transition Education and Services, Certificate in Autism Spectrum Disorders,  Early Childhood Unified Education, Certificate in Admin/Director Special Education, Curriculum and Instruction (General), Curriculum and Instruction (Reading), Endorcement in Reading, Curriculum and Instruction (ESOL), Endorsement in ESOL, Curriculum and Instruction (Mathematics & Science), Educational Leadership, Interdisciplinary Studies, ",
-88,University of Michigan,Noodle Partners,Yes,No,1,Contract explains that Noodle Partners will assist the university in program development as well as with recruitment and marketing efforts,,course development | recruitment | marketing,"Up to $23,714,785 by year 7 of contract under the ""tuition"" clause. Contract says that cumulative net income by year 7 is 
-$45,473,665",,,
-92,University of Nebraska,iDesignEDU,Yes,No,0,"iDesign shall provide help the University faculty design, develop and produce course.",,course development,,,,
-97,University of North Carolina at Chapel Hill,2U,Yes,Yes,1,,"Goal to launch at least 10 full-service digital graduate degree programs (p.22). 2U might provide bootcamps and course materials to those bootcamps (p.4), but is also hired to help the university bolster its in-house capacity for offering digital educational services and programs (p.10). 2U provides marketing, recruitment, admissions collection, guidance in curriculum design and program management (although the school is responsible for this) and a course platform. Bootcamps: 2U is responsible for generating enrollments, marketing (2U's role myst be acknowledge in the marketing), select and hire instructures, tech support  ",marketing I software I recruitment,"Per-credit fee ($23,84)",,,
-98,University of North Carolina Wilmington,Academic Partnerships,Yes,No,1,"recruitment, curriculum suport, curriculum development, ""student support"" reaches out to students",,recruitment | course development,,50-55%,,
-99,University of North Dakota,Career Step,Yes,No,0,provides certificate and supplemental programming,,course content | revenue share,,18-22%,,
-100,University of North Dakota,Institute for Graduate Studies,No,Yes,0,,"""IGS submits quality professional development for review by the OEL""",,,,,
-101,University of North Dakota,Taxila Education Group Limited,Yes,Yes,0,,"Collaboration to ""deliver online courses to teachers for graduate professional development credit (2900-level). The school will provide students with credits if they complete a TEGL course. TEGL determines the content, subject matter and materials for the course and facilitates and grades coursework. ",course content I course instruction I course materials I marketing I revenue share,,75%,,
-103,University of North Dakota,The Learning Factory LLC,No,Yes,0,,"Collaboration to ""deliver online courses to teachers for graduate professional development credit (2900-level). The Learning Factory will provide needed instructors and materials, is responsible for course contet, production, customer service, training and payment of instructors + marketing",course instruction I course materials I course content I marketing I revenue share,,72%,,
-104,University of North Dakota,Public Consulting Group,Yes,Yes,1,,"Collaboration to ""deliver online courses to teachers for graduate professional development credit (2900-level) - LOOKS PRETTY SHADY",course content I course materials I course instruction I marketing I revenue share,,70-85%,,
-120,University of Texas,Alivetek,Yes,No,0,"course design in collaboration with institutionand content creation, also graphics",,course content | marketing,between $85-150/hr,,,
-128,University of Washington,Noodle Partners,Yes,No,0,Create supervise and manage academic programs ,,course instruction I course materials I course content I,"Base fee of 22k a month, additional cumulative fees per credit hr",,,
-129,University of West Florida,The Learning House,Yes,Yes,0,,"""THL shall launch the online programs to commencer..."": 5 bachelors programs and 14 masters programs in 2019",revenue share,,30-38%,,
-130,University of West Florida,Academic Partnerships,Yes,Yes,0,,"AP's obligations include marketing and promotion, program development, support and implementation, academic support services, enrollment specialists to contact potential students, application support, student support services. In the fall of 2022, only an MBA in Finance.",marketing I academic support I revenue share,,45%,,
-134,Victoria College,The Center for Legal Studies,No,Yes,0,,"live online independent study courses. CLS provides curriculum and instructors for the courses, administration of the courses",course content I course instruction I course development I revenue share I marketing,,80%,,
-135,Victoria College,Cengage Learning Inc.,No,Yes,0,,"facilitates sales of online courses, designs and posts marketing materials. Contract contains weird language like ""as a cengage learning affiliate partner, you are not offering or providing the licensing education. You are referring potential students to Cengage Learning's approved licensing school. It looks like the school is referring the students to cengage's courses on another platform",,,70% (?????),,
-140,West Virginia University,Coursera,Yes,No,1,This contract explains the Coursera hosts multi-media courses and has to approve of materials.,,course instruction | course content | course development,,50%,,
-143,Youngstown State University,Academic Partnerships,Yes,No,1,"This contract explains the Academic Partnerships is responsible for marketing, recruiting, *enrollment specialists*, program development, academic support services, and assisting students with application process/requirements",,recruiting | course development | marketing,,redacted,MS ed and MSN nursing,
-144,University of Texas at Austin,Pearson,No,Yes,1,,"Four online courses. Pearson provides commercial content course development (instructional designers, content development editors, and learning designers), a web-based support system, project management and market research. Pearson has the right to approve the final manuscript for each course. ",course development I software,,84%,,
-146,University of Rhode Island,Academic Partnerships,No,Yes,1,,"AP's obligations include marketing, program development, support and implementation, curriculum support, recruitment and enrollment assistance, application support, student support services (p. 2-5). AP also get access to the school's branding and styile guidelines, web domain and alumni email lists.",marketing I recruitment I revenue share I course development,,50%,,
-149,Michigan State University,All Campus,No,Yes,1,,"marketing and ""retention services"" which is defined as orientation prep work and contacting students about setting up accounts once admitted ",marketing |,,,,
+Primary database - Primary data (3)
+partnership_id,Institution,Provider,invisibility,start_month,start_year,term_primary_contract,last_start_date,end_date_last_contract
+1,Alabama State University,Kaplan,0,8,2014,888,2014,2021
+2,Arizona State University,Coursera,2,8,2015,5,2015,2020
+3,Black Hawk College,McGraw-Hill Education,-999,2,2018,2,2018,2020
+4,Black Hawk College,Pearson,-999,6,2017,3,2020,2021
+5,Black Hawk College,Instructure,-999,9,2012,5,2021,2026
+6,Black Hawk College,Edmentum,0,4,2015,1,2019,2020
+7,Black Hawk College,Gatlin Education Services,0,12,2003,888,2003,888
+8,Black Hawk College,Tutor.com,2,7,2008,1,2019,2020
+9,Black Hawk College,RedShelf,2,3,2018,888,2018,2028
+10,Chadron State College,Longsight,-999,5,2018,3,2018,2021
+11,Cochise College,Ed2Go,2,5,2001,888,2001,888
+12,Dakota State University,D2L,-999,7,2017,5,2017,2022
+13,Eastern Kentucky University,Blackboard,-999,7,2017,3,2017,2020
+14,Eastern Kentucky University,Pearson/ EmbanetCompass,2,12,2005,7,2017,2022
+15,Eastern Michigan University,Instructure,-999,5,2014,3,2019,2022
+16,Eastern Michigan University,Academic Partnerships,1,9,2016,5,2020,2024
+17,Emporia State University,Instructional Connections,0,3,2018,3,2018,2021
+18,Emporia State University,Academic Partnerships,0,11,2017,10,2018,2028
+19,Florida State University,Keypath,0,6,2016,-999,2016,-999
+20,Georgia College and State University,Ed2Go,2,10,2007,888,2007,888
+21,Grand Rapids Community College,Ed2Go,2,12,2005,888,2006,888
+22,Highland Community College,Ed2Go,2,12,2010,888,2014,888
+23,Iowa State University,Instructure cloud,-999,6,2017,,2017,
+24,Jacksonville State University,Instructure,-999,1,2019,1,2019,2024
+25,Johnson County Community College,Instructure,-999,8,2017,1,2017,2021
+26,Kent State University,Everspring,2,11,2013,7,2013,2020
+27,Lamar University,Academic Partnerships,0,8,2014,3,2018,2021
+28,Louisiana State University System,Academic Partnerships,0,2,2013,3,2013,2022
+29,Louisiana State University-Shreveport,Academic Partnerships,0,2,2013,3,2017,2020
+30,Miami University of Ohio,Unizin,2,7,2019,3,2020,2022
+31,Miami University of Ohio,Proctorio,-999,5,2017,5,2017,2022
+32,Miami University of Ohio,Kaltura,2,7,2019,1,2019,2020
+33,Michigan State University,Virtual Internship Partners Limited,0,5,2020,1,2020,2021
+34,Michigan State University,Capa,2,5,2020,0.2,2020,2020
+35,Michigan State University,Connect-123,2,5,2020,0.2,2020,2020
+36,Michigan State University,D2L,2,6,2011,10,2020,2021
+37,Michigan State University,Bisk,2,6,2011,10,2020,2021
+38,Michigan State University,Coursera,2,6,2015,888,2015,888
+39,Missouri University of Science and Technology,Internet2,-999,6,2016,5,2016,2021
+40,Montgomery County Community College,Ed2Go,1,7,2015,888,2015,888
+41,Nevada System of Higher Education,Pearson,,12,2015,888,2015,2025
+42,New Mexico Highlands University,D2L,-999,11,2011,3.7,2023,2024
+43,New Mexico State University,Centra,-999,3,2002,888,2002,888
+44,Ohio University,Pearson/ EmbanetCompass,1,7,2008,10,2016,2023
+45,Ozarks Technical Community College,Instructure,-999,7,2016,5,2016,2021
+46,Pennsylvania State System of Higher Education,D2L,-999,2,2016,5,2020,2024
+47,Purdue University,All Campus,0,5,2016,5,2016,2021
+48,Purdue University,Kaplan,1,1,2019,30,2019,2049
+49,Purdue University,The College Network,0,7,2009,3,2015,888
+50,Rutgers University,Blackboard,-999,7,2017,3,2018,2020
+51,Sam Houston State,Blackboard,-999,9,2019,5,2023,2024
+52,Southeastern Oklahoma State University,Ed2Go,0,10,2022,888,2022,888
+53,Southeastern Oklahoma State University,Academic Partnerships,0,12,2015,7,2021,2029
+54,Southern Illinois University Carbondale,Ed2Go,1,10,2006,888,2006,888
+55,SUNY Binghamton,Academic partnerships,1,2,2017,5,2019,2024
+56,Ohio State University,Proctorio,-999,1,2018,3,2019,2020
+57,Ohio State University,Trilogy,2,5,2020,5,2020,2025
+58,Truckee Meadows Community College,Ed2go,,5,2017,5,2017,2022
+59,University of Arizona,"Ashford (Bridgepoint Education, Zovio)",1,8,2020,15,2020,2036
+60,University of Arizona,Coursera,2,3,2014,888,2014,888
+61,University of California Davis,Instructure,-999,1,2016,5,2016,2021
+62,University of California Davis,Internet2,-999,7,2017,5,2017,2022
+63,University of California Riverside,Trilogy,2,3,2018,3,2018,2021
+64,University of California San Diego,Trilogy,0,8,2016,2,2020,2023
+65,University of California-Berkeley,Trilogy,2,9,2016,888,2017,888
+66,University of California-Berkeley,2U,1,1,2013,15,2013,2029
+67,University of California-Berkeley,EdX,2,5,2013,888,2013,888
+68,University of California Los Angeles,Trilogy,2,1,2016,3,2018,2021
+69,University of Central Florida,Guild,2,4,2019,2,2019,2021
+70,University of Cincinnati,Academic Partnerships,0,11,2012,5,2015,2020
+71,University of Cincinnati,Compass Knowledge-Pearson,1,1,2007,7,2015,2022
+72,University of Connecticut,Saba,-999,11,2015,3,2018,2021
+73,University of Connecticut,Alivetek,0,9,2020,3,2020,2023
+74,University of Connecticut,EverFi,1,8,2018,3,2018,2021
+75,University of Connecticut,Trilogy,2,1,2019,3,2019,2022
+76,University of Florida,All Campus,0,1,2013,4,2015,2020
+77,University of Florida,Apollidon,1,4,2008,5,2016,2021
+78,University of Florida,Coursera,2,7,2012,888,2012,888
+79,University of Idaho,Blackboard,-999,12,2008,3,2018,2022
+80,University of Idaho,Instructure,-999,,2021,2,2021,2023
+81,University of Illinois,Blackboard,-999,8,2018,10,2018,2021
+82,University of Illinois,Pearson/ EmbanetCompass,1,12,2007,10,2015,2022
+83,University of Illinois,Coursera,2,3,2016,2,2018,2020
+84,University of Kansas,Trilogy,2,1,2017,3,2017,2020
+85,University of Kansas,Everspring,1,4,2013,10,2013,2023
+86,University of Massachussetts,Pearson/ EmbanetCompass,0,8,2013,3,2017,2020
+87,University of Massachussetts,GetEducated.com,0,1,2019,0.6,2019,2020
+88,University of Michigan,Noodle Partners,1,9,2019,3,2019,2022
+89,University of Michigan,Coursera,2,4,2012,5,2021,2026
+90,University of Montana,Zoom,2,8,2018,3,2019,2021
+91,University of Montana,Wiley,2,5,2020,7,2020,2027
+92,University of Nebraska,iDesignEDU,0,4,2017,7,2017,2024
+93,University of Nevada Reno,Pearson/ EmbanetCompass,2,7,2008,3,2019,2020
+94,University of New Mexico,Instructure,-999,3,2021,7,2028,
+95,University of North Carolina at Chapel Hill,Time,-999,12,2016,5,2016,2022
+96,University of North Carolina at Chapel Hill,Coursera,2,1,2015,10,2015,2025
+97,University of North Carolina at Chapel Hill,2U,1,11,2010,10,2020,2030
+98,University of North Carolina Wilmington,Academic Partnerships,1,2,2013,10,2013,2023
+99,University of North Dakota,Career Step,0,7,2018,2,2018,2020
+100,University of North Dakota,Institute for Graduate Studies,0,8,2021,1,2022,2023
+101,University of North Dakota,Taxila Education Group Limited,0,7,2021,2,2021,2023
+102,University of North Dakota,The Center for Legal Studies,2,1,2021,1,2022,2023
+103,University of North Dakota,The Learning Factory LLC,0,1,2022,2,2022,2024
+104,University of North Dakota,Public Consulting Group,1,7,2018,2,2022,2024
+105,University of North Dakota,Hoonuit,2,11,2018,2,2018,2020
+106,University of North Dakota,The CE Shop,2,7,2018,2,2020,2022
+107,University of North Dakota,Professional Development Institute,2,3,2016,3,2021,2023
+108,University of North Dakota,Continuing Education Associates,2,4,2016,3,2021,2023
+109,University of North Dakota,Kaplan,2,12,2017,3,2020,2023
+110,University of North Dakota,Infobase,2,7,2021,2,2021,2023
+111,University of North Dakota,Promineo Tech,2,4,2021,2,2021,2023
+112,University of North Dakota,"Virtual Education Software, Inc (VESi)",2,7,2018,2,2022,2024
+113,University of North Dakota,Digital Learning Tree,2,7,2018,2,2022,2024
+114,University of North Dakota,"Ed2Go/Cengage Learning, Inc",2,8,2014,888,2022,2024
+115,University of North Dakota,"ED Technology Specialists, Inc.",2,5,2022,2,2022,2024
+116,University of North Dakota,Pearson,2,3,2018,10,2022,2032
+117,University of North Dakota,Protrain,2,9,2013,888,2021,888
+118,University of North Texas,Bridge,-999,7,2021,1,2021,2022
+119,University of Southern Mississippi,Instructure,-999,,2021,5,2022,2027
+120,University of Texas,Alivetek,0,3,2015,5,2015,2020
+121,University of Texas,Council for Aid to Education,2,4,2015,5,2016,2020
+122,University of Texas at Austin,Trilogy,2,4,2019,6,2019,2023
+123,University of Texas at San Antonio,Trilogy,2,2,2018,3,2018,2021
+124,University of Vermont,Blackboard,-999,4,2003,888,2003,888
+125,University of Vermont,Ed2Go,2,1,2004,888,2004,888
+126,University of Vermont,Bisk,2,4,2003,888,2003,888
+127,University of Virginia,Noodle Partners,2,8,2018,3,2018,2021
+128,University of Washington,Noodle Partners,0,3,2020,4,2020,2024
+129,University of West Florida,The Learning House,0,4,2017,5,2018,2023
+130,University of West Florida,Academic Partnerships,0,5,2011,5,2015,2020
+131,University of Wisconsin,Trilogy,2,5,2018,3,2018,2021
+132,University of Wyoming,Wiley,2,8,2020,2,2020,2022
+133,Victoria College,Instructure,-999,4,2016,4,2022,2025
+134,Victoria College,The Center for Legal Studies,0,8,2018,888,2021,2022
+135,Victoria College,Cengage Learning Inc.,0,11,2011,888,2011,888
+136,Victoria College,Ed2Go,2,10,1999,888,1999,888
+137,Washington State Board for Community and Technical Colleges,Panopto,-999,,2014,3,2021,2024
+138,Washington State Board for Community and Technical Colleges,Instructure,-999,6,2012,4,2019,2023
+139,Washington State University,Pearson/ EmbanetCompass,2,2,2010,10,2014,2020
+140,West Virginia University,Coursera,1,3,2013,3,2016,2022
+141,Western New Mexico University,Instructure,-999,4,2022,5,2022,2027
+142,Wichita State University,Blackboard,-999,11,2016,3,2020,2021
+143,Youngstown State University,Academic Partnerships,1,12,2018,8,2021,2029
+144,University of Texas at Austin,Pearson,1,12,2014,888,2022,2025
+145,University of West Florida,Wiley,2,8,2021,1,2021,2022
+146,University of Rhode Island,Academic Partnerships,1,6,2014,4,2018,2022
+147,University of Illinois,Instructure,-999,6,2020,5,2020,2025
+148,Southern Illinois University Carbondale,D2L,2,7,2022,2,2022,2024
+149,Michigan State University,All Campus,1,,,,,
+150,University of California Los Angeles,Instructure,-999,6,2019,3,2022,2025
+151,University of Massachussetts,Education Dynamics,,7,2017,2,2017,2021
+152,University of California-Irvine,Trilogy,2,11,2016,2,2021,2023
+153,University of Nevada Reno,Ed2Go,,5,2017,5,2017,2022
