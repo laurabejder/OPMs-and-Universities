@@ -69,6 +69,6 @@ ADD DATES FOR DATA COLLECTION!
         the university and an external tool
 
 ### Cleaning the data
-The sample includes to contracts that are still active or expired later than 2019. Contracts that expired before that are excluded to ensure that the project only include recent partnerships. By doing so, we drop 104 partnerships. 
+The sample includes to contracts that are still active or expired later than 2019. Contracts that expired before that are excluded to ensure that the project only include recent partnerships. By doing so, 104 partnerships were dropped. 
 
-We also exclude partnerships where the online program manager only provides an online learning platform - known as Learning Program Managers (LMS) to make the cases in the sample more comparable. The LMS are coded as -999 in the invisibility column. As a result, we drop 37 partnerships.
+Partnerships where the online program manager only provides an online learning platform - known as Learning Program Managers (LMS) – were excluded to make the cases in the sample more comparable. The LMS are coded as -999 in the invisibility column. As a result, 37 partnerships were dropped.
