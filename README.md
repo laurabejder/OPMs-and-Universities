@@ -3,8 +3,10 @@
 
 - `FOIA-2019`: Contracts between schools and OPMs collected by the Century Foundation before 2022. 
 - `FOIA-2022`: Contracts between schools and OPMs collected through FOIA requests to the schools in the fall of 2022
+- `data.csv`: Data on the partnerships including name of the university/college, OPM, invisitibility meassure and start and end dates for the contracts. See variable description below.
+- `contact_content.csv`: Descriptions of the content of each contract. See variable description below.
 
-`csv_name.csv`
+`data.csv`
 
 | Header         | Definition |
 |----------------|------------|
@@ -18,7 +20,7 @@
 |`last_start_year`|The start year for the lastest contract.|
 |`end_date_last_contract`|The expiration year for the latest contract.|
 
-`csv_name.csv`
+`contact_content.csv`
 
 | Header         | Definition |
 |----------------|------------|
